@@ -10,11 +10,9 @@ bootstrap.pytorch==0.0.13
 brotlipy==0.7.0
 catalogue==2.0.6
 certifi==2021.5.30
-channelnorm-cuda==0.0.0
 cloudpickle==1.6.0
 colorama==0.4.4
 contextvars==2.4
-correlation-cuda==0.0.0
 cycler==0.10.0
 cymem==2.0.5
 Cython==0.29.23
@@ -65,7 +63,6 @@ python-dateutil==2.8.1
 PyWavelets==1.1.1
 PyYAML==5.4.1
 pyzmq==19.0.2
-resample2d-cuda==0.0.0
 scikit-image==0.17.2
 scikit-learn==0.24.2
 seaborn==0.11.2
@@ -103,4 +100,4 @@ yapf==0.32.0
 numpy==1.19.2
 nltk
 h5py
-Sharedarray
+SharedArray
