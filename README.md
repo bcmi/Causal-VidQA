@@ -40,7 +40,7 @@ Please create an env for this project using miniconda (should install [miniconda
 >conda create -n causal-vidqa python==3.6.12
 >conda activate causal-vidqa
 >git clone https://github.com/bcmi/Causal-VidQA
->pip install -r requirements.txt 
+>pip install -r requirement.txt 
 ```
 
 ## Data Preparation
