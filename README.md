@@ -1,5 +1,12 @@
 # Causal-VidQA
 
+## News 
+
+* [2024.07.11] We release the answer for the [test set](https://cloud.bcmi.sjtu.edu.cn/sharing/aU4Skr9EJ). You can download them and put them into the ```['data/QA']``` to use them.
+
+
+## Introduction
+
 The Causal-VidQA dataset contains 107,600 QA pairs from the [Causal-VidQA dataset](https://arxiv.org/pdf/2205.14895.pdf). The dataset aims to facilitate deeper video understanding towards video reasoning. In detail, we present the task of Causal-VidQA, which includes four types of questions ranging from scene description (description) to evidence reasoning (explanation) and commonsense reasoning (prediction and counterfactual). For commonsense reasoning, we set up a two-step solution by answering the question and providing a proper reason.
 
 Here is an example from our dataset and the comparison between our dataset and other VisualQA datasets.
