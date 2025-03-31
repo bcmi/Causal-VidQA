@@ -88,16 +88,6 @@ Hint: we have release a trained [model](https://cloud.bcmi.sjtu.edu.cn/sharing/c
 
 (*For comparison, please refer to the results in our paper.*)
 
-## Test set Evaluation
-
-In the released dataset, we hide the correct answer id for questions in our test set. 
-If you want to evaluate the results on test set, please participate the competition in [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/6269).
-
-Hint: 
-1. Each participant can submit the inference results for 10 times in total and 2 times for each day.
-2. Please zip the inference json file before submit to [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/6269).
-3. If the register requirement is not approved within one day, please email me.
-
 ## Citation
 ```
 @InProceedings{li2022from,
